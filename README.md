@@ -1,8 +1,8 @@
 # Rocket Seat Ignite - RocketShoes
 
-<!-- <p align="center">
+<p align="center">
   <img src=".github/home.png">
-</p> -->
+</p>
 
 ## Table of Contents
 
@@ -63,7 +63,14 @@ You can also edit the quantity and remove items from your cart.
 
 - https://github.com/typicode/json-server
 - https://github.com/fkhadra/react-toastify
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
 
 ## Resources <a name = "resources"></a>
 
 - https://www.tutorialspoint.com/typescript/typescript_interfaces.htm
+- https://apirequest.io/
+- https://www.arungudelli.com/tutorial/javascript/how-to-check-if-an-object-is-empty-in-javascript-examples/
+- https://stackoverflow.com/questions/4994201/is-object-empty
+- https://stackoverflow.com/questions/4059147/check-if-a-variable-is-a-string-in-javascript
+- https://stackoverflow.com/questions/40238144/safe-navigation-operator-or-and-null-property-paths
