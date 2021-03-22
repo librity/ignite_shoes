@@ -56,8 +56,9 @@ $ yarn test
 
 ## Usage <a name = "usage"></a>
 
-Click on an Item to add it to your cart.
-You can also edit the quantity and remove items from your cart.
+On the home screen, click on an item to add it to your cart.
+Clicking on `Meu Carrinho` will take you to the cart view,
+where you can edit the amount of each item or remove it.
 
 ## Docs <a name = "docs"></a>
 
