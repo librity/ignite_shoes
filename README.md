@@ -44,7 +44,7 @@ $ yarn server
 $ yarn start
 ```
 
-4. Open http://localhost:3000 your web browser.
+4. Open http://localhost:3000 on your web browser.
 
 ### Testing
 
